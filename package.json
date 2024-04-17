@@ -1,0 +1,22 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "monorepo-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnlyFlyer/monorepo.git"
+  },
+  "keywords": [
+    "monorepo、monorepo-demo、multirepo"
+  ],
+  "author": "scofield90.email@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnlyFlyer/monorepo/issues"
+  },
+  "homepage": "https://github.com/OnlyFlyer/monorepo#readme"
+}
