@@ -1,5 +1,5 @@
 {
-  "name": "monorepo",
+  "private": true,
   "version": "1.0.0",
   "description": "monorepo-demo",
   "main": "index.js",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/OnlyFlyer/monorepo/issues"
   },
-  "homepage": "https://github.com/OnlyFlyer/monorepo#readme"
+  "homepage": "https://github.com/OnlyFlyer/monorepo#readme",
+  "dependencies": {
+    "@flyerwu/utils": "workspace:^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
 }
